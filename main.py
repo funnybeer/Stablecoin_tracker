@@ -1,3 +1,4 @@
+import utils.session
 from src.netflow_tracker import NetflowTracker
 
 def main():
